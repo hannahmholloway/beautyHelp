@@ -1,2 +1,2 @@
 # beautyHelp
-## Tech Stack: AWS EC2, Node.js, Express.js, React.js, MongoDB (MERN), Nginx
+## Built using the MERN tech stack: AWS EC2, Nginx, Node.js, Express.js, React.js, MongoDB
